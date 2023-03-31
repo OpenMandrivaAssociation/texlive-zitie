@@ -1,6 +1,6 @@
 Name:		texlive-zitie
 Version:	60676
-Release:	1
+Release:	2
 Summary:	Create CJK character calligraphy practicing sheets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zitie
